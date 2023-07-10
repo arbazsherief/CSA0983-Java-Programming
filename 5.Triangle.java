@@ -1,3 +1,5 @@
+import java.io.*;
+import java.util.Scanner;
 class Triangle {
     private double side1;
     private double side2;
